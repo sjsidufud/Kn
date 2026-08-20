@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Phase 0: Pulihkan repo + lingkungan (rsync, restore_env, seed, build FE)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 0: Ukur titik henti dengan alat repo (audit_md_erp, gate --full)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE T: perbaiki residu POC tahapan (snapshot/restore stok) — akar 2 gate merah",
+    "status": "completed"
+  },
+  {
+    "content": "FASE T: uji UI user story T-US1/T-US2/T-US3 + regresi 3 layar lama",
+    "status": "completed"
+  },
+  {
+    "content": "FASE T: perbaiki bug pemilih pop-up terbuka kembali (portal) + gate INV-UI-09 self-test",
+    "status": "completed"
+  },
+  {
+    "content": "FASE T: gate.sh --full hijau 0 FAIL sesudah semua perbaikan",
+    "status": "in_progress"
+  },
+  {
+    "content": "FASE T: tutup fase — plan.md §STATUS T + SESSION_HANDOFF + RENCANA + test_result.md",
+    "status": "pending"
+  },
+  {
+    "content": "FASE U: D1 kosakata satuan (aliases uoms, KG, PANEL) + INV-UOM-02",
+    "status": "pending"
+  },
+  {
+    "content": "FASE U: qty_rolls di 15 koleksi + helper qty_dual/QtyDual + INV-QTY-01 (PANEL per pesanan)",
+    "status": "pending"
+  },
+  {
+    "content": "FASE U: POC test_core_dua_satuan_poc.py + uji UI + tutup fase",
+    "status": "pending"
+  }
+]
